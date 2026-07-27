@@ -1,5 +1,5 @@
 {
-  "name": "strv-addressbook-web",
+  "name": "addressbook-web",
   "version": "1.0.0",
   "private": true,
   "scripts": {

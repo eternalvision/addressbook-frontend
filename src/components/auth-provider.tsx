@@ -23,7 +23,7 @@ type AuthContextValue = {
   logout: () => Promise<void>;
 };
 
-const storageKey = "strv-addressbook-session";
+const storageKey = "addressbook-session";
 
 const AuthContext = createContext<AuthContextValue | null>(null);
 

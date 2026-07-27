@@ -1,6 +1,6 @@
-# STRV AddressBook Web
+# AddressBook Web
 
-A dark, responsive Next.js frontend for the STRV AddressBook API.
+A dark, responsive Next.js frontend for the AddressBook API.
 
 ## Included
 
